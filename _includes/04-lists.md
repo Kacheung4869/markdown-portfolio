@@ -1,1 +1,4 @@
-_includes/04-lists.md:Emoji: :Ordered Lists: :Unordered Lists:
+_includes/04-lists.md
+-Emoji
+-Ordered Lists
+-Unordered Lists
